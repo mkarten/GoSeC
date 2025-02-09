@@ -292,5 +292,3 @@ Use the on-screen options to:
     - Proper certificate revocation (CRL/OCSP),
     - Logging, auditing, etc.
 - Protect your Shamir share files according to your organization’s security policies.
-
-first version of gui and cli for gosec 1.0.0
